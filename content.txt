@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 new content2
+=======
+>>>>>>> cdeac6e (new content)
 new content
