@@ -1,5 +1,2 @@
 new content
 new content2
->>>>>>> cdeac6e (new content)
->>>>>>> .merge_file_lBPtwN
-new content
